@@ -8,3 +8,4 @@ class Solution:
             minPrice = min(prices[i] , minPrice )
 
         return maxProfit
+        return minPrice
